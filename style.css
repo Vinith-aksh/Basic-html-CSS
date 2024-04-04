@@ -1,0 +1,43 @@
+*{
+    background-color: darkslateblue;
+}
+body{
+    
+    text-align: right;
+}
+h1{
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 150px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+div a {
+    color: #fff;
+    padding: 20px;
+    margin-top: 10px;
+}
+.head{
+    margin: auto;
+}
+div button {
+    color: #fff;
+    background-color: #518BF8;
+    border-radius: 50px;
+}
+div{
+    margin-left: 100px;
+    margin-top: 150px;
+}
+div p{
+    text-align: left;
+    color: #fff; 
+}
+div section{
+    color: chartreuse;
+    text-align: left;
+    font-size: 50px;
+}
+
